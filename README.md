@@ -9,10 +9,7 @@
 
 ---
 
-### GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=robertson-athokpam&theme=tokyonight&no-frame=true&margin-w=15" alt="Trophies" />
-</p>
+
 
 ---
 
