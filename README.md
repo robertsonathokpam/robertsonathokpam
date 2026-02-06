@@ -1,30 +1,26 @@
 <div align="center">
 
-# 💫 About Me
+#  About Me
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6DA55F&height=200&section=header&text=Robertson%20Athokpam&fontSize=70&animation=fadeIn" width="100%"/>
 
-### 🚀 Aspiring Developer | Problem Solver | Tech Enthusiast
+### Aspiring Developer | Problem Solver | Tech Enthusiast
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Building+Interactive+Web+Apps;Mastering+Data+Structures;Cloud+Computing+Learner;Open+Source+Contributor" alt="Typing SVG" />
 
 ---
 
-### 🏆 GitHub Trophies
+### GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=robertson-athokpam&theme=tokyonight&no-frame=true&margin-w=15" alt="Trophies" />
 </p>
 
 ---
 
-### 📊 GitHub Analytics
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=robertson-athokpam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Robertson's Stats" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertson-athokpam&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="180" />
-</p>
+
 
 ---
 
-### 🕹️ Competitive Programming & Socials
+###  Competitive Programming & Socials
 <p align="center">
   <a href="https://codeforces.com/profile/tumtum_4" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-B12024?style=for-the-badge&logo=codeforces&logoColor=white" height="40" style="margin: 10px;">
@@ -53,10 +49,6 @@
 
 ---
 
-### 📈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=robertson-athokpam&theme=tokyonight&hide_border=true&area=true" width="100%" />
-</p>
 
 <br />
 
@@ -64,5 +56,5 @@
   <img src="https://komarev.com/ghpvc/?username=robertson-athokpam&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
-**Let's build something amazing together! 🚀**
+**Let's build something amazing together! **
 </div>
